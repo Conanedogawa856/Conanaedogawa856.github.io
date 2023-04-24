@@ -24,12 +24,12 @@ q
 	> this is a blockquote
 	this is a para
 this is a code block
-'''py
+'py
 a=2
 b=3
 c=a+b
 print(c)
-'''
+'
 ![izumi](Screenshot (156).png)
 ***
 ___
