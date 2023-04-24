@@ -11,7 +11,7 @@ this is third para
 __bold__
 *italic*
 _italic_
-![My Profile Pic](https://media.licdn.com/dms/image/D4D03AQGODuASFQIJPQ/profile-displayphoto-shrink_400_400/0/1676817112398?e=1687392000&v=beta&t=DBg3aN9f46ar6zj_28wOSLsEf5da0BGDiSQsx87uAr4)`
+
 > this is a blockquote
 >> this is a nested blockquote
 q
