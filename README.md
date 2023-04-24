@@ -30,11 +30,11 @@ b=3
 c=a+b
 print(c)
 '''
-![izumi](C:\Users\3D%20INTERNET%20CAFE\Desktop\Screenshot%20(156).png)
+![izumi](Screenshot (156).png)
 ***
 ___
 ---
-[youtube](youtube.com)
+[youtube](https://www.youtube.com/)
 '''py
 a=2
 b=3
