@@ -1,7 +1,9 @@
 ### About me 
 
 My name is Vaibhav Gupta.  
-![profile_image](https://www.freepik.com/free-vector/it-takes-two-tango-idiom_2956131.htm#query=cartoon%20face&position=4&from_view=keyword&track=ais)    
+
+![profile_image](https://img.freepik.com/free-vector/it-takes-two-tango-idiom_1308-17930.jpg?w=900&t=st=1682404534~exp=1682405134~hmac=212dc59cee56f872d5dd6cd1a47bfc1f21c2714cb62487b34027c2c961da7490)   
+
 I am a student of IIT Goa.   
 I live in Uttar Pradesh.  
 I like sketching.  
@@ -13,6 +15,8 @@ I like sketching.
  | Academic year | Standard | School name |
  | ----- | ----- | -----|
  | 2023 | First Year | IIT Goa |   
+ 
+ ------
  
  ### Course@IITGoa
  
